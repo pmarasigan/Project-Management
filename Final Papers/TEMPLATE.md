@@ -6,7 +6,7 @@ Name, Semester, link to personal website.
 
 [Comment_1]: <> (begin your text here)
 
-[Lastname_2023](#Ref-1)           
+[Lastname_2023](#ref-1)           
 
 [Comment_2]: <> (An example of a reference link -- see Comment 8 for more detail)
 
@@ -37,4 +37,4 @@ __Paragraph heading__
 
 [Comment_8]: <> (begin your reference list here. Cite as author, year in main text. Reference link should correpond with link in Comment 2  Use any format you wish -- MLA, APA, etc.)
 
-##Ref-1
+## Ref 1
