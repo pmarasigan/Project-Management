@@ -2,10 +2,12 @@
 Name, Semester, link to personal website.
 
 
-### Introduction/Headings
+### Introduction/Headings    
+
 [Comment_1]: <> (begin your text here)
 
-(Lastname_2023)[#[1]]        
+[Lastname_2023](#1)           
+
 [Comment_2]: <> (An example of a reference link -- see Comment 8 for more detail)
 
 #### Subheading
@@ -17,18 +19,22 @@ Name, Semester, link to personal website.
 
 [Comment_4]: <> (Insert Figure with caption here)
 
-#### Subheading
+#### Subheading     
+
 [Comment_5]: <> (begin your text here)
 
-__Paragraph heading__     
+__Paragraph heading__         
+ 
 [Comment_6]: <> (begin your text two spaces after the last underscore in the previous line)
 
 
-### Conclusion     
+### Conclusion      
+
 [Comment_7]: <> (begin your text here)
 
 
-### References    
+### References     
+
 [Comment_8]: <> (begin your reference list here. Cite as author, year in main text. Reference link should correpond with link in Comment 2  Use any format you wish -- MLA, APA, etc.)
 
-##[1]
+##1
