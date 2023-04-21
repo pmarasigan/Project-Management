@@ -2,8 +2,11 @@
 Name, Semester, link to personal website.
 
 
-### Introduction
+### Introduction/Headings
 [Comment_1]: <> (begin your text here)
+
+[Reference_1](#1)
+
 
 #### Subheading
 [Comment_2]: <> (begin your text here)
@@ -17,4 +20,14 @@ Name, Semester, link to personal website.
 #### Subheading
 [Comment_4]: <> (begin your text here)
 
-__Paragraph heading__     [Comment_5]: <> (begin your text here)
+__Paragraph heading__     
+[Comment_5]: <> (begin your text two spaces after the last underscore in the previous line)
+
+### Conclusion
+[Comment_6]: <> (begin your text here)
+
+
+### References
+[Comment_7]: <> (begin your reference list here. Cite as author, year in main text. Use any format you wish -- MLA, APA, etc).
+
+#1
