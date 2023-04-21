@@ -13,11 +13,11 @@ Name, Semester, link to personal website.
 #### Subheading
 [Comment_3]: <> (begin your text here)
 
-| ![](https://github.com/Orthogonal-Research-Lab/Meta-brain-Models/raw/master/Assets%20and%20Media/Meta-brain%20Model%20II.png) | 
+| ![]([https://github.com/Orthogonal-Research-Lab/Meta-brain-Models/raw/master/Assets%20and%20Media/Meta-brain%20Model%20II.png](https://user-images.githubusercontent.com/38323286/233691025-55deb1db-3e35-4589-8c55-4f859f8e41cd.jpg)) | 
 | :--: |
 | <b>Figure 1.</b> Caption test. |   
 
-[Comment_4]: <> (Insert Figure with caption here)
+[Comment_4]: <> (Insert Figure with caption here. [Store image as an issue](https://github.com/OREL-group/Project-Management/issues/279) or in the local directory)
 
 #### Subheading     
 
