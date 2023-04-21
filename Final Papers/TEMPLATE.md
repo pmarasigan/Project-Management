@@ -6,9 +6,9 @@ Name, Semester, link to personal website.
 
 [Comment_1]: <> (begin your text here)
 
-[Lastname_2023](#ref-1)           
+(Lastname, 2023)            
 
-[Comment_2]: <> (An example of a reference link -- see Comment 8 for more detail)
+[Comment_2]: <> (An example of a reference in paper text, cite in Reference list -- see Comment 8)
 
 #### Subheading
 [Comment_3]: <> (begin your text here)
@@ -36,5 +36,3 @@ __Paragraph heading__
 ### References     
 
 [Comment_8]: <> (begin your reference list here. Cite as author, year in main text. Reference link should correpond with link in Comment 2  Use any format you wish -- MLA, APA, etc.)
-
-## Ref 1
