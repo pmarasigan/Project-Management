@@ -1,4 +1,4 @@
-## TITLE
+## RSO Administration App
 Andrew Xie, FA32, andrewxie.dev
 
 
