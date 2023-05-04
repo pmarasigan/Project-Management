@@ -79,18 +79,18 @@ __Paragraph heading__
 Ideally, this project results in a less stressful class registration period for students taking iSchool classes. It will decrease financial burdens as well as academic burdens while providing students with an opportunity to grow their skills, become more marketable professionals, give back to their community, and potentially gain some extra credit. Additionally, those who take leadership roles can grow their non-technical skills like leadership and communication. Due to the variety of skill levels welcomed and needed along with the ebb and flow of necessary contributions over the school year, hopefully the project allows anyone who wants to contribute to be able to contribute. After the project gains traction, ideally there is a need to rescope and add new features to the project. One example of this could include adding a course planner that allows students to create mock schedules for their future semester. Another is incorporating a degree audit into the project, which could help students know what classes they still need to take in order to remain on track to graduate. The project could also expand beyond the iSchool and incorporate all classes from all colleges within the University of Illinois. No matter the size of the project though, it should remain a free and constantly updated resource for students of the iSchool.
 
 ### References     
-GitHub, Inc. (n.d.). GNU General Public License v3.0. Choose a License. Retrieved April 28, 2023, from https://choosealicense.com/licenses/gpl-3.0/
+GitHub, Inc. (n.d.). *GNU General Public License v3.0.* Choose a License. Retrieved April 28, 2023, from https://choosealicense.com/licenses/gpl-3.0/
 
-Murray, A. (2020, October 24). Open Source Copyleft Licenses: All You Need to Know. Mend. Retrieved April 28, 2023, from https://www.mend.io/resources/blog/open-source-copyleft-licenses/ 
+Murray, A. (2020, October 24). *Open Source Copyleft Licenses: All You Need to Know*. Mend. Retrieved April 28, 2023, from https://www.mend.io/resources/blog/open-source-copyleft-licenses/ 
 
-Oliver, D., Guo, J., Tan, J., Li, J., Abraham, T., Mao, A. (T.), Landolt, K., Cho, N., & Fagen-Ulmschneider, W. (n.d.). Grade disparity between sections at UIUC. University of Illinois at Urbana-Champaign. Retrieved April 28, 2023, from https://waf.cs.illinois.edu/discovery/grade_disparity_between_sections_at_uiuc/ 
+Oliver, D., Guo, J., Tan, J., Li, J., Abraham, T., Mao, A. (T.), Landolt, K., Cho, N., & Fagen-Ulmschneider, W. (n.d.). *Grade disparity between sections at UIUC*. University of Illinois at Urbana-Champaign. Retrieved April 28, 2023, from https://waf.cs.illinois.edu/discovery/grade_disparity_between_sections_at_uiuc/ 
 
-Open Source Initiative. (n.d.). Frequently Asked Questions. Open Source Initiative. Retrieved April 28, 2023, from https://opensource.org/faq/#osd 
+Open Source Initiative. (n.d.). *Frequently Asked Questions*. Open Source Initiative. Retrieved April 28, 2023, from https://opensource.org/faq/#osd 
 
-Pot, J. (2022, October 24). How to Build a Chatbot: The Complete Guide for Marketers. Zapier. Retrieved April 28, 2023, from https://zapier.com/blog/how-to-build-chat-bot/
+Pot, J. (2022, October 24). *How to Build a Chatbot: The Complete Guide for Marketers*. Zapier. Retrieved April 28, 2023, from https://zapier.com/blog/how-to-build-chat-bot/
 
-Slack Technologies, Inc. (n.d.). Using Slack. Slack Help Center. Retrieved April 28, 2023, from https://slack.com/help/articles/360017938993-What-is-a-channel 
+Slack Technologies, Inc. (n.d.). *Using Slack*. Slack Help Center. Retrieved April 28, 2023, from https://slack.com/help/articles/360017938993-What-is-a-channel 
 
-University of Illinois at Urbana-Champaign. (n.d.). CPanel Web Hosting Service. cPanel Web Hosting Service. Retrieved April 30, 2023, from https://web.illinois.edu/
+University of Illinois at Urbana-Champaign. (n.d.). *CPanel Web Hosting Service*. cPanel Web Hosting Service. Retrieved April 30, 2023, from https://web.illinois.edu/
 
-Valamis. (2022, July 25). Gamification. Valamis. Retrieved April 28, 2023, from https://www.valamis.com/hub/gamification  
+Valamis. (2022, July 25). *Gamification*. Valamis. Retrieved April 28, 2023, from https://www.valamis.com/hub/gamification  
