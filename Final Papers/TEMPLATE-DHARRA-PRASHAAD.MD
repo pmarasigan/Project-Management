@@ -30,7 +30,7 @@ Once the project site has been created, the site’s home page would introduce t
 | - | - |
 | required textbook, required software, required tools, required supplies, etc. | required materials |
 | concerns, compliments, commentary, comments, etc. | feedback |
-| from [the professor/Box], came from, got it from, received from, was sent by, etc. | sourced from | 
+| from (the professor/Box), came from, got it from, received from, was sent by, etc. | sourced from | 
 
 <p align="center">
  <b> Figure 2. </b> Controlled Vocabulary Example
