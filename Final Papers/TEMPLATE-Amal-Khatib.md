@@ -2,6 +2,8 @@
 
 Amal Khatib, FA23
 
+### Abstract: 
+CourseChat is an open-source application that provides pre-built group chats for every university course, allowing students to communicate and collaborate with their peers. The application aims to centralize communication and resources, making it easy for students to stay organized and engage in meaningful discussions. It is designed to benefit students in the Information School and Engineering courses, particularly Computer Science courses, but can be used by students in any field of study or institution of higher learning. The platform's versatility allows it to be used by anyone trying to learn a new skill or stay updated in their field. Additionally, CourseChat can help individuals develop and hone their communication and collaboration skills, making it a valuable tool for anyone trying to improve their skills in this area. The application's public nature allows anyone to join and participate in discussions, making it a platform that can benefit a wide range of individuals. Finally, the platform's open-source nature allows for customization and adaptation to specific needs and contexts.
 
 ### Introduction    
 CourseChat is an open-source application designed to facilitate group chats for university students. The application provides pre-built group chats for every course offered at the university. At the beginning of each semester, students can upload their course information and university details, and the application will automatically add them to two different group chats.
@@ -77,7 +79,9 @@ The community can also contribute to data cleaning and determining the best stru
 
 ### Conclusion: 
 
-In conclusion, CourseChat is an open-source application that provides pre-built group chats for every course offered at the university. The platform aims to centralize communication and collaboration among students, making it easy for them to access resources, stay organized, and engage in meaningful discussions with their peers. The application's public nature allows anyone to join and participate in discussions, making it a platform that can benefit students and professionals from different fields and institutions. The platform's versatility allows it to be used by anyone in any field of study or institution of higher learning, and it can also help individuals develop and hone their communication and collaboration skills. As technology advances and the pace of change in various fields accelerates, CourseChat provides a valuable tool for anyone trying to learn a new skill or stay updated in their field.
+In conclusion, CourseChat is an open-source application that provides pre-built group chats for every course offered at the university. The platform aims to centralize communication and collaboration among students, making it easy for them to access resources, stay organized, and engage in meaningful discussions with their peers. 
+
+The application's public nature allows anyone to join and participate in discussions, making it a platform that can benefit students and professionals from different fields and institutions. The platform's versatility allows it to be used by anyone in any field of study or institution of higher learning, and it can also help individuals develop and hone their communication and collaboration skills. As technology advances and the pace of change in various fields accelerates, CourseChat provides a valuable tool for anyone trying to learn a new skill or stay updated in their field.
 
 
 ### References     
