@@ -1,5 +1,5 @@
 ## TITLE
-Name, Semester, link to personal website.
+Amal Khatib, FA23
 
 
 ### Introduction/Headings    
