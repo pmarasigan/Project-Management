@@ -38,6 +38,10 @@ The iSchool and Engineering courses typically involve complex topics that requir
 
 Moreover, Computer Science courses, in particular, involve working on complex coding projects that require collaboration and a high degree of precision. Having a platform like CourseChat that provides a centralized location for students to communicate and collaborate can greatly enhance their productivity and effectiveness.
 
+<img width="900" alt="Screen Shot 2023-05-05 at 10 42 31 PM" src="https://user-images.githubusercontent.com/93105110/236597870-c89dea8b-4c75-4585-826e-6c6152d9eb99.png">
+<img width="900" alt="Screen Shot 2023-05-05 at 10 42 24 PM" src="https://user-images.githubusercontent.com/93105110/236597872-be4ea302-4dd8-4041-802e-a5ae6fb35c66.png">
+<img width="900" alt="Screen Shot 2023-05-05 at 10 42 16 PM" src="https://user-images.githubusercontent.com/93105110/236597874-e25b2b7b-dea2-4d5a-9397-e355886b45b2.png">
+
 #### Potential Audience:
 
 CourseChat can be used by students in any field of study, at any institution of higher learning, to facilitate communication and collaboration. The platform's versatility allows it to be used by anyone who is trying to learn a new skill or stay updated in their field.
