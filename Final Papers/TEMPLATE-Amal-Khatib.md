@@ -14,9 +14,11 @@ Although the application is primarily designed for university students, anyone c
 
 #### Public Post
 In addition to CourseChat, the application also includes a feature called Public Post. Public Post allows users to upload any style of question, and other users can provide different solutions to the problem. This feature provides an open platform for people to share their ideas and perspectives on a wide range of topics beyond just their courses.
-<img width="614" alt="Screen Shot 2023-05-05 at 10 11 27 PM" src="https://user-images.githubusercontent.com/93105110/236595700-12a6ec84-ba7d-4338-b0c9-01941fa98bcb.png">
-<img width="232" alt="Screen Shot 2023-05-05 at 10 12 11 PM" src="https://user-images.githubusercontent.com/93105110/236595752-0053065b-2c0e-425f-9448-ae0578bd72be.png">
-<img width="206" alt="Screen Shot 2023-05-05 at 10 12 30 PM" src="https://user-images.githubusercontent.com/93105110/236595753-3934dd1d-2495-4835-819d-0e146739e6c4.png">
+<img width="900" alt="Screen Shot 2023-05-05 at 10 11 27 PM" src="https://user-images.githubusercontent.com/93105110/236595700-12a6ec84-ba7d-4338-b0c9-01941fa98bcb.png">
+
+<img width="900" alt="Screen Shot 2023-05-05 at 10 12 11 PM" src="https://user-images.githubusercontent.com/93105110/236595752-0053065b-2c0e-425f-9448-ae0578bd72be.png">
+
+<img width="900" alt="Screen Shot 2023-05-05 at 10 12 30 PM" src="https://user-images.githubusercontent.com/93105110/236595753-3934dd1d-2495-4835-819d-0e146739e6c4.png">
 
 
 ### Purpose
