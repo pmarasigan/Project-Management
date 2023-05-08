@@ -3,12 +3,12 @@ Jacqueline Léveillé, Spring 2023, https://www.linkedin.com/in/jacqueline-levei
 
 ## Table of Contents
 [Problem](#prob)
-[Open-Source Solution](#oss)
-[Before Launch](#pre)
-[Project Launch](#launch)
-[Community Engagement](#community)
-[Sustainability](#sustainability)
-[Project Expansions](#proj-exp)
+<br>[Open-Source Solution](#oss)
+<br>[Before Launch](#pre)
+<br>[Project Launch](#launch)
+<br>[Community Engagement](#community)
+<br>[Sustainability](#sustainability)
+<br>[Project Expansions](#proj-exp)
 
 ## <a name="prob"></a>Problem
 In recent times, the rental market has become increasingly competitive because of the limited supply of available apartments. In fact, apartment occupancy reached a record high of 97.6% in the first quarter of 2022 (Ludden, 2022). Consequently, Ludden (2022) adds that the “asking rents for new leases were up 15.2% nationally”, in addition to many places experiencing significantly higher percentage increases. 
