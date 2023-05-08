@@ -2,6 +2,12 @@
 Jacqueline Léveillé, Spring 2023, https://www.linkedin.com/in/jacqueline-leveille/
 
 ## Table of Contents
+[Problem](#prob)
+[Open-Source Solution](#oss)
+[Before Launch](#pre)
+[Project Launch](#launch)
+[Community Engagement](#community)
+[Sustainability](#sustainability)
 [Project Expansions](#proj-exp)
 
 ## <a name="prob"></a>Problem
@@ -9,7 +15,7 @@ In recent times, the rental market has become increasingly competitive because o
 
 One of these impacted areas is college towns where students who have only known each other for a couple of months are forced to sign leases nearly a year in advance. At the University of Wisconsin-Madison, the already challenging apartment search was made more difficult by extreme rises in prices leaving a shortage of desirable and affordable properties. The scarcity of apartments pressured dozens of “UW-Madison students [to camp] out in line as early as 10 a.m. the day before to get one of their first-come, first-served leases”, as pictured below in Figure 1 (Wethal, 2022). One of these college students explains people’s decisions to skip class and job interviews, sharing that “How I pay for it is a later problem. I need to be focused on finding a place.” (Wethal, 2022).
 
-### UW-Madison Students Camping Out for Apartments
+#### UW-Madison Students Camping Out for Apartments
 ![](https://github.com/jgl4/photos/blob/ef9854461a2f6163b867345b1cd71bf3ed9c5d39/figure1a.jpeg)
 | ![](https://github.com/jgl4/photos/blob/7daa80891fc065b426dae954d94d603aca8946a2/figure1b.avif) | 
 | :--: |
@@ -17,10 +23,10 @@ One of these impacted areas is college towns where students who have only known 
 
 The current rental environment has given landlords more unchecked control than ever before. With their newfound power, property owners are free to impose exploitative rental terms, subject renters to unfavorable conditions, and refuse tours of units. Therefore, prospective renters have limited and quickly disappearing resources to get honest information about their future homes.
 
-## Open-Source Solution
+## <a name="oss"></a>Open-Source Solution
 In order to solve this serious problem, my project aims to provide an accessible and transparent open house and open-source experience to prospective renters through a website called Open Housing. The site allows current renters to contribute by posting genuine apartment reviews and photos. This allows renters to gain back power in the rental market by being able to view the true conditions of the apartment without being entirely dependent on property owners. Unlike the perfectly curated and styled photos on leasing company websites, Open Housing gives an authentic voice to the renters that actually live in the apartments. This insider information can help interested renters gain leverage in negotiations and combat competitive pricing by exposing the unpleasant and often hidden features of the apartment. In addition, current renters can benefit because apartment owners will be motivated to upgrade their living conditions in an effort to reduce negative reviews. All in all, Open Housing intends to foster a more equitable rental market by offering a platform for renters to speak about their experiences and reward property owners that deliver a quality living experience.
 
-### Open Housing Mockup
+#### Open Housing Mockup
 | ![](https://github.com/jgl4/photos/blob/03fca2514c3c6043b47e41cc83812bb3c11762fc/Open%20Housing%20Mockup.png) | 
 | :--: |
 | <b>Figure 2</b>|   
@@ -37,7 +43,7 @@ Directly below these specifications is a sample of two renter reviews and the st
 
 Finally, the bottom right area is dedicated to images of apartments that are submitted by renters. This section aims to allow searchers to imagine themselves living in the space by seeing what it looks like when lived in. There is also a map of the surrounding area around the apartment for people to see what local businesses and shops are nearby. All in all, this section showcases the apartment in ways that can not be described with words alone. 
 
-## Before Launch
+## <a name="pre"></a>Before Launch
 The first step in project development is to establish a project timeline to outline the fundamental actions that must be completed before the release of Open Housing. Although the schedule is relatively flexible, it aims to provide a projection of the estimated time and order of operations for each task of the project. Since Open Housing is dependent on the collaboration of numerous individuals, certain components must be finished before advancing to the next. For instance, the domain name of the website must be secured before the apartment submission form can be posted to the website and shared with community members. In addition, the project timeline is useful in keeping collaborators on track and motivated by having a set goal release date. The time constraint also allows project managers to identify project steps that are progressing slowly to resolve issues before it causes a bottleneck. Furthermore, it enforces accountability for the team member responsible for this portion of the project.
 
 After the project timeline is determined, the Open Housing website must be created. This serves as the main hub for community members to interact with the project and begin to make an impact in the rental market. Therefore, it is critical to establish an initial, functional website as soon as possible, so the rest of the platform can be built around it. The baseline website should include a landing page with a couple of mockups of apartment-specific pages. The details on the apartment-specific pages do not have to be accurate but should illustrate the different functionalities the website can have. In the future, web developers can advance these components by implementing search and other features. Additionally, a better user experience can be achieved by improving the aesthetics and ease of navigation of the site.
@@ -48,19 +54,19 @@ Similar to many open-source projects, the most valuable stage before the project
 
 The first community that Open Housing aims to target is students at the University of Illinois, Urbana-Champaign. Through promotion in campus registered student organizations and social media advertising, and tabling an initial set of apartments can be assembled and the network can continue to grow. Since the origins of the Open Housing project will be set in the Champaign-Urbana area, it is integral to form meaningful relationships and connect with the neighborhood from the start.
 
-## Project Launch
+## <a name="launch"></a>Project Launch
 As a new project, it is imperative to spread awareness about Open Housing’s mission with members of its target audience. Therefore, a partnership with the Fall Housing Fair which is held annually on campus helps reach students in search of apartments for the next school year. The collaboration could be in the form of a booth that allows people to ask questions and familiarize themselves with the platform. Additionally, QR codes could be shared on flyers at the event to direct people straight to the website or social media platforms.
 
 On the launch date, Open Housing can reward early contributors with housewarming gifts for their efforts in bringing the project to fruition. The packages can contain a small house succulent and a soft branded throw blanket that can be displayed in their living space. Moreover, the appreciation packages can continue to motivate the team past the launch into consistent growth for the future.
 
 Although the in-person booth and gifts are significant, many interested people may miss or be unable to attend the events. Therefore, offering asynchronous opportunities to engage with the brand is valuable. For instance, recording people’s reactions to the booth and the thank you presents would be great ways to transform these experiences for asynchronous viewing. The footage can also be edited to produce social media content to boost engagement on the social platforms for Open Housing. The social media postings should convey the mission and benefits of the project to help visitors develop an affinity for the brand. Moreover, the videos and photos from the event can act as archives for new collaborators to learn about the brand story from the beginning. Lastly, a countdown to the launch of the website could be live-streamed for people to celebrate together as a community.
 
-## Community Engagement
+## <a name="community"></a>Community Engagement
 As the project grows over time it is imperative that Open Housing continues to engage with community members. The project should aim to release a monthly newsletter to keep contributors informed about improvements and enhancements to the platform. Not only is this a great way to communicate updates to the team, but it acknowledges the work they do and reminds them that their efforts do not go unnoticed.
 
 Another way to communicate appreciation to loyal contributors to the project is to award them with badges. This is only possible with built-in methods to measure collaborators’ impact which begins with creating an Open Housing account. Once the account is established the member’s actions can be tracked and a badge level can be assigned to the profile based on the quantity and frequency of contributions. The criteria needed for each of the four badge levels are presented in Table 1 below.
 
-### Badge Level Breakdown
+#### Badge Level Breakdown
 | ![](https://github.com/jgl4/photos/blob/8bf1b505bd4dba1efd56436c2659106098c72251/Screenshot%202023-05-08%20at%202.45.12%20PM.png) | 
 | :--: |
 | <b>Table 1</b>|  
@@ -69,7 +75,7 @@ On top of the recognition received with members’ earned badge levels, Open Hou
 
 Lastly, Open Housing should prioritize open channels to receive community feedback. These insights can be collected as a form or for more detailed suggestions through a town hall style discussion. After all, there is no better way to demonstrate that you care about your community than opening up the floor to their opinions. In many respects, the community members who interact with the website know more about the bugs and shortcomings than the developer. Therefore, it can only benefit Open Housing to value these voices and empower the community to share their thoughts.
 
-## Sustainability
+## <a name="sustainability"></a>Sustainability
 The Open Housing website will undoubtedly need continual work to remain updated and useful for prospective renters. One way to make project maintenance easier is to streamline the process to initialize and rate apartments. At its core, the ability to share opinions about apartments is the central idea behind Open Housing. Therefore, this aspect should constantly be evaluated to consider if there are better ways to simplify the procedures. The ultimate goal is for there to be no barriers for people to become contributors to the website and for every building to have representation on the site.
 
 For Open Housing to intake all of the apartment entries, there needs to be an approved system to verify the postings are authentic and when applicable, accurate. As the site becomes more popular, it will be unreasonable for this task to be assigned to one person because it leaves a single point of failure. Therefore, it is important to establish an agile project workflow to delegate this responsibility to loyal members of the project. For instance, contributors with a badge level of either gold or platinum can have access to verify new apartment entries and monitor incoming reviews. This will allow the website to stay updated while upholding the quality of the content.
