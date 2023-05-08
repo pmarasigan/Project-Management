@@ -9,6 +9,7 @@ Jacqueline Léveillé, Spring 2023, https://www.linkedin.com/in/jacqueline-levei
 <br>[Community Engagement](#community)
 <br>[Sustainability](#sustainability)
 <br>[Project Expansions](#proj-exp)
+<br>[References](#ref)
 
 ## <a name="prob"></a>Problem
 In recent times, the rental market has become increasingly competitive because of the limited supply of available apartments. In fact, apartment occupancy reached a record high of 97.6% in the first quarter of 2022 (Ludden, 2022). Consequently, Ludden (2022) adds that the “asking rents for new leases were up 15.2% nationally”, in addition to many places experiencing significantly higher percentage increases. 
@@ -91,7 +92,7 @@ Another potential partnership for Open Housing lies with the universities which 
 
 Finally, Open Housing can scale the project beyond the initial headquarters of the Champaign-Urbana area. There are numerous cities, especially other college towns, that struggle with the competitive rental market and would benefit from the project entering their community. Despite the evident applications of Open Housing in these areas, each expansion needs to examine the location-specific features that may be decisive for those community members. For instance, in New York City, in-unit washers and dryers would be a meaningful feature to add since they do not come standard in buildings. Therefore, it is paramount to speak to residents of the community and learn about what is valuable to them before extending into the area. Only when the community is placed at the forefront will Open Housing be able to deliver the best possible experience. Ultimately, the project’s success is intrinsically tied to its connection with the community.
 
-## References
+## <a name="ref"></a>References
 Jacobs, K., & Bowden, T. (2022, October 7). Hopeful tenants camp out overnight for affordable housing in Madison. NBC15. https://www.nbc15.com/2022/10/07/hopeful-tenants-camp-out-overnight-affordable-housing-madison/
 
 Ludden, J. (2022, June 24). The Housing Market Squeeze Pushes Renters into Bidding Wars. NPR. https://www.npr.org/2022/06/24/1106352611/housing-market-renters-bidding-wars-mortgages
