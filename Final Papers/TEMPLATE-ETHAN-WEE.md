@@ -48,7 +48,10 @@ The database will be entirely in mySQL, as it is a common language that is widel
 
 ### References:
 Sullivan, J. (2021, May 21). 7 golden rules for scoping projects perfectly. Project Management Articles https://www.projecttimes.com/articles/7-golden-rules-for-scoping-projects-perfectly/ 
+
 Best practices for maintainers. Open Source Guides. (2023, May 2). https://opensource.guide/best-practices/ 
 FPA General Code License. Fairfield Programming Association. (n.d.). https://about.fairfieldprogramming.org/programs/opensource-legal/fpa-general-code 
+
 Yasar, K., Roy, M., & Laskowski, N. (2023, March 8). What is a Hackathon? – TechTarget definition. CIO. https://www.techtarget.com/searchcio/definition/hackathon 
+
 Tales from the docathon: How to get communities to write documentation. Berkeley Institute for Data Science. (2018, December 13). https://bids.berkeley.edu/news/tales-docathon-how-get-communities-write-documentation 
