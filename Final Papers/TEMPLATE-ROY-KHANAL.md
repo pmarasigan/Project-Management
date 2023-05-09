@@ -4,7 +4,9 @@ Roy Khanal, Spring 2023
 
 ### Abstract     
 
-[Comment_1]: <> (begin your text here)
+[Comment_1]: <> (The goal of this paper is to deliver a proposal that aims to bridge the gap between RSO’s (Registered Student Organizations) on the University of Illinois campus by connecting them based on similar interests, hobbies, goals, etc. It talks about the use of an open source dating/communication platform called CSR (Connecting Student’s and RSO’s) for students and organizations that will allow them to easily reach out to one another and act as a platform meant to seamlessly connect any information either party needs. The use of open source and why is highlighted in this paper and used in conjunction to any relevant principles. Finally this paper goes into a condensed down process of how the development and implementation of this platform can begin and how it can be optimized for the university and its students. 
+
+)
            
 
 [Comment_2]: <> (An example of a reference in paper text, cite in Reference list -- see Comment 8)
