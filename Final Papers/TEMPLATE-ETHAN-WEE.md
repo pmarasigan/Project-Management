@@ -1,10 +1,10 @@
 ## Imagining a Surfing Database
 
 ## BigZ
-![]([https://github.com/jgl4/photos/blob/ef9854461a2f6163b867345b1cd71bf3ed9c5d39/figure1a.jpeg])
-| ![]([https://github.com/jgl4/photos/blob/7daa80891fc065b426dae954d94d603aca8946a2/figure1b.avif]) | 
+
+| ![]([https://user-images.githubusercontent.com/124402288/234653003-6c27c6c2-6ec8-4556-8054-2f33e58b1058.png) | 
 | :--: |
-| <b>Figure 1.</b> Note: Picture of 'BigZ' from the Pixar movie Surf's Up   |     
+| <b>Figure 1.</b> Homepage Wireframe [View](https://github.com/OREL-group/Project-Management/issues/295). |     
 Ethan Wee
 Junior, 2nd Semester https://ethanweeatuiuc.web.illinois.edu
 
