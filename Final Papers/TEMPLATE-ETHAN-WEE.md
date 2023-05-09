@@ -1,8 +1,8 @@
 ## Imagining a Surfing Database
 
 ## BigZ
-![]([https://github.com/jgl4/photos/blob/ef9854461a2f6163b867345b1cd71bf3ed9c5d39/figure1a.jpeg](https://github.com/Nalgene-e/edwee2/blob/28b220483b59d7a9735638ca16d31a8cb6bed08e/Screenshot%202023-05-09%20at%202.24.55%20PM.png))
-| ![]([https://github.com/jgl4/photos/blob/7daa80891fc065b426dae954d94d603aca8946a2/figure1b.avif](https://github.com/Nalgene-e/edwee2/blob/28b220483b59d7a9735638ca16d31a8cb6bed08e/Screenshot%202023-05-09%20at%202.24.55%20PM.png)) | 
+![]([https://github.com/jgl4/photos/blob/ef9854461a2f6163b867345b1cd71bf3ed9c5d39/figure1a.jpeg])
+| ![]([https://github.com/jgl4/photos/blob/7daa80891fc065b426dae954d94d603aca8946a2/figure1b.avif]) | 
 | :--: |
 | <b>Figure 1.</b> Note: Picture of 'BigZ' from the Pixar movie Surf's Up   |     
 Ethan Wee
