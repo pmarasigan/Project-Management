@@ -5,6 +5,7 @@
 | ![]([https://user-images.githubusercontent.com/124402288/234653003-6c27c6c2-6ec8-4556-8054-2f33e58b1058.png) | 
 | :--: |
 | <b>Figure 1.</b> Homepage Wireframe [View](https://github.com/OREL-group/Project-Management/issues/295). |     
+
 Ethan Wee
 Junior, 2nd Semester https://ethanweeatuiuc.web.illinois.edu
 
