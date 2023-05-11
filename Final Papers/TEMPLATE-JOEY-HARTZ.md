@@ -1,5 +1,5 @@
-## TITLE
-Name, Semester, link to personal website.
+## Open-Source Community for UX Design
+Joey Hartz, IS 340 Spring 2023, https://joeyhartz.com
 
 
 ### Introduction/Headings    
